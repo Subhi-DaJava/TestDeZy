@@ -2,7 +2,7 @@
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("Ici on peut fusionner ou créer les branches.");
+		System.out.println("Tester les branches et pushu avec Eclipse.");
 
 	}
 
